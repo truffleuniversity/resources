@@ -27,8 +27,8 @@ class Layout extends React.Component {
       <ThemeProvider theme={theme}>
         <React.Fragment>
           <Header py={5} mb={5}>
-            <Heading fontSize={[6, 7]} fontWeight={400}>Truffle University Resources</Heading>
-            <Heading fontWeight={400} mt={2}>Some cool subtitle here!</Heading>
+            <Heading fontSize={[6, 7]} fontWeight={400} color={`#fff`}>Truffle University Resources</Heading>
+            <Heading fontWeight={400} mt={2} color={`#3fe0c5`}>Some cool subtitle here!</Heading>
             <Box display="flex" mt={4}>
               <Button variant="primary" onClick={() => navigate('/')}>
                 Home
