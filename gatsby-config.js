@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Coolest Library`,
-    author: `Pedro Nauck`,
-    description: `Gatsby starter with Docz and a blog for your documentation`,
+    title: `Truffle University`,
+    author: `Truffle Blockchain Group`,
+    description: `A living collection of resources for participants (anyone who's intrested) in Truffle University's courses`,
   },
   __experimentalThemes: [
     {

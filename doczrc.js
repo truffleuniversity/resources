@@ -1,10 +1,10 @@
 import * as colors from './src/utils/colors'
 
 export default {
-  title: 'Coolest Library',
+  title: 'Truffle University',
   base: '/docs',
   ignore: ['**/blog/**', 'readme.md'],
-  menu: ['Getting Started', 'Components'],
+  menu: ['Introduction', 'Glossary', 'Projects', 'Resources'],
   themeConfig: {
     colors: {
       primary: colors.primary,

@@ -1,10 +1,10 @@
 {
-  "name": "@pedronauck/gatsby-starter-docz",
-  "description": "Gatsby starter with Docz and a blog for your documentation",
+  "name": "@truffleuniversity/docs",
+  "description": "A living collection of resources for participants (anyone who's intrested) in Truffle University's courses",
   "version": "0.0.1",
-  "author": "Pedro Nauck <pedronauck@gmail.com>",
+  "author": "Kevin Bluer <kevin@trufflesuite.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/truffleuniversity/docs/issues"
   },
   "dependencies": {
     "docz": "1.0.3",
@@ -38,7 +38,7 @@
   "devDependencies": {
     "prettier": "^1.17.0"
   },
-  "homepage": "https://github.com/pedronauck/gatsby-starter-docz#readme",
+  "homepage": "https://github.com/truffleuniversity/docs",
   "keywords": [
     "gatsby"
   ],
@@ -46,7 +46,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pedronauck/gatsby-starter-docz.git"
+    "url": "git+https://github.com/truffleuniversity/docs.git"
   },
   "scripts": {
     "build": "gatsby build",
