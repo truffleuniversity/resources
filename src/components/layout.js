@@ -28,7 +28,7 @@ class Layout extends React.Component {
         <React.Fragment>
           <Header py={5} mb={5}>
             <Heading fontSize={[6, 7]} fontWeight={400} color={`#fff`}>Truffle University Resources</Heading>
-            <Heading fontWeight={400} mt={2} color={`#3fe0c5`}>Some cool subtitle here!</Heading>
+            <Heading fontWeight={400} mt={2} color={`#3fe0c5`}>A living collection of guides, materials, and projects.</Heading>
             <Box display="flex" mt={4}>
               <Button variant="primary" onClick={() => navigate('/')}>
                 Home
@@ -38,7 +38,7 @@ class Layout extends React.Component {
                 variant="primary"
                 onClick={() => navigate('/docs')}
               >
-                View The Resources
+                Resources
               </Button>
             </Box>
           </Header>
