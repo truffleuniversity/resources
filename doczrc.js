@@ -4,7 +4,7 @@ export default {
   title: 'Truffle University',
   base: '/docs',
   ignore: ['**/blog/**', 'readme.md'],
-  menu: ['Introduction', 'Glossary', 'Projects', 'Resources'],
+  menu: ['Introduction', 'Glossary', 'Resources', 'Services'],
   themeConfig: {
     colors: {
       primary: colors.primary,
