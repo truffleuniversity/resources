@@ -28,7 +28,7 @@ class Layout extends React.Component {
         <React.Fragment>
           <Header py={5} mb={5}>
             <Heading fontSize={[6, 7]} fontWeight={400} color={`#fff`}>Truffle University Resources</Heading>
-            <Heading fontWeight={400} mt={2} color={`#3fe0c5`}>A living collection of guides, materials, and projects.</Heading>
+            <Heading fontWeight={400} mt={2} color={`#3fe0c5`}>A living collection of guides, materials, projects, etc.</Heading>
             <Box display="flex" mt={4}>
               <Button variant="primary" onClick={() => navigate('/')}>
                 Home
@@ -51,7 +51,7 @@ class Layout extends React.Component {
               }}
             />
             <Box as="footer" mb={4}>
-              © {new Date().getFullYear()}, Built with
+              © {new Date().getFullYear()}, Built with ❤ and 
               {` `}
               <a href="https://www.gatsbyjs.org">Gatsby</a>
             </Box>
