@@ -54,8 +54,12 @@ route: /resources
 
 - [Cryptotux](https://cryptotux.org/)
 
-<li id="cryptokitties-li">
-  <div style={{fontFamily:'"Comic Sans MS", cursive, sans-serif',display:'inline-flex'}}>
+<li style={{content: '● ',
+    color: '#CED4DE',
+    fontWeight: 'bold',
+    fontSize: '0.9em',
+    marginRight: '5px'}} id="cryptokitties-li">
+  <div style={{marginLeft:'-0.7em', fontFamily:'"Comic Sans MS", cursive, sans-serif',display:'inline-flex'}}>
     <img style={{cursor:"pointer"}} onClick={()=> {
         const meow = document.getElementById('meow');
         meow.innerHTML = "meow";
