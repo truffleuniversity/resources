@@ -69,3 +69,31 @@ route: /resources
 
 - [Cryptotux](https://cryptotux.org/)
 - [Ethereum Foundation](https://www.ethereum.org/)
+
+<ul class="UnorderedList-kkVuiO jvAwzV">
+<li style={{content: '● ',
+    color: '#CED4DE',
+    fontWeight: 'bold',
+    fontSize: '0.9em',
+    marginRight: '5px'}} id="cryptokitties-li">
+  <div style={{fontFamily:'"Comic Sans MS", cursive, sans-serif',display:'inline-flex'}}>
+    <img style={{cursor:"pointer"}} onClick={()=> {
+        const meow = document.getElementById('meow');
+        meow.innerHTML = "meow";
+        const animate = () => {
+          const randomColor = "#" + Math.floor(Math.random() * 16777215).toString(16);
+          meow.style.color = randomColor;
+          const mover = 5*Math.sin(Date.now()*Math.PI*.01);
+          meow.style.marginLeft = mover + "px";
+          meow.style.marginTop = mover/2 + "px";
+          requestAnimationFrame(animate);
+        }
+        animate();
+        setTimeout(()=>window.location="https://cryptokitties.co", 3000)
+        }}
+        height="30px"
+     src="https://dynaimage.cdn.cnn.com/cnn/q_auto,w_412,c_fill,g_auto,h_412,ar_1:1/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F180302141853-cryptokitties-top.jpg"/>
+     <span style={{fontSize: '2rem',position:'absolute',lineHeight:'37px',color:'pink',opacity:'.5'}} id="meow"/>
+  </div>
+</li>
+</ul>
