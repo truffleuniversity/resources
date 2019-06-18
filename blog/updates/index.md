@@ -9,6 +9,7 @@ Contributions to [Truffle University Resources](https://resources.truffle.univer
 ## Contribution Steps
 
 - Create a new branch from `master`
+- If you originally published your blog with medium you can use [medium-2-md](https://www.npmjs.com/package/medium-2-md) to convert it to markdown 
 - Open the relevant file in the `docs` or `blog` directory and edit the [mdx](https://mdxjs.com/) (which is just [markdown](https://www.markdownguide.org/) with JSX only interleaved if you want to add in-page [interactivity](https://reactjs.org/docs/introducing-jsx.html))
 - Commit and create a [Pull Request](https://github.com/truffleuniversity/resources/pulls)
 
