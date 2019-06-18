@@ -15,6 +15,12 @@ FairyGates.overrideThemeStyles = () => {
     blockquote: {
       borderLeftColor: colors.primary,
     },
+    code: {
+      backgroundColor: colors.code_highlight,
+    },
+    pre: {
+      backgroundColor: colors.code_highlight,
+    },
   }
 }
 
