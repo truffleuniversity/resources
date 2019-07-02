@@ -7,7 +7,7 @@
     "url": "https://github.com/truffleuniversity/resources/issues"
   },
   "dependencies": {
-    "core-js": "^2.6.5",
+    "core-js": "2.6.5",
     "docz": "^1.2.0",
     "docz-theme-default": "1.2.0",
     "gatsby": "^2.4.2",
