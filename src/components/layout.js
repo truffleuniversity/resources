@@ -12,7 +12,8 @@ const Header = styled(Box)`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: ${p => p.theme.colors.lightgray};
+  background-color: ${p => p.theme.colors.truffle};
+  background-image: ${p => p.theme.colors.truffle_gradient};
 `
 
 const Container = styled(Box)`
