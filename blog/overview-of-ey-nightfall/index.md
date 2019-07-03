@@ -2,7 +2,6 @@
 title: 'Overview of Nightfall'
 date: '2019-06-13'
 description: 'A detailed look at EY Nightfall, what it is and how it works.'
-route: '/overview-of-ey-nightfall'
 author: 'Kyle Liu'
 ---
 
