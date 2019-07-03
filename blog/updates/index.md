@@ -13,4 +13,32 @@ Contributions to [Truffle University Resources](https://resources.truffle.univer
 - Open the relevant file in the `docs` or `blog` directory and edit the [mdx](https://mdxjs.com/) (which is just [markdown](https://www.markdownguide.org/) with JSX only interleaved if you want to add in-page [interactivity](https://reactjs.org/docs/introducing-jsx.html))
 - Commit and create a [Pull Request](https://github.com/truffleuniversity/resources/pulls)
 
-Suggestions on changing or improving any of the above are very welcome too.
+## Local Development
+
+We can easily update our site and watch it change in real time.
+
+First we want to clone the [repository](https://github.com/truffleuniversity/resources).
+
+Install the Gatsby CLI.
+
+```
+npm install -g gatsby-cli
+```
+
+Change directories into site folder that you cloned.
+
+```
+cd ./resources
+```
+
+We can run our Gatsby site locally in the development mode.
+
+```
+gatsby develop
+```
+
+Gatsby will start a hot-reloading development environment accessible by default at *localhost:8000*. Open it up in your browser.
+
+Try editing the pages in `docs` or `blogs` directory. Saved changes will live reload in the browser.
+
+Suggestions on changing or improving any of the above are very welcome.
