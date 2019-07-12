@@ -9,6 +9,7 @@ route: /glossary
 
 - **ABI** (Application Binary Interface) A JSON description of the external interface for a Contract Instance, or for the description of common interface of all instances of a Contract Type.
 - **EIP** (Ethereum Improvement Proposal) A document proposed to the Ethereum community, describing a proposed new standard for the Ethereum platform.
+- **ERC** (Ethereum Request for Comments) Generally refers the original proposal (which may be incomplete) that is eventually turned into an EIP. In common usage, it also refers to application level standards and conventions like token standards (e.g. ERC20) and URI schemes (e.g. ERC67)
 - **EOA** (Externally Owned Account) An account that is controlled by a private key (as opposed to smart contract code).
 - **Gas** An independent unit of account for pricing smart contract computations and transactions on the Ethereum network.
 - **Remix** A [browser-based IDE](https://remix.ethereum.org) for Solidity and Vyper with integrated debugging, testing, and a virtual blockchain for convenient smart contract development.
@@ -23,6 +24,16 @@ route: /glossary
 - **Solidity** The most fully supported programming language (of a handful of options) that can be readily compiled into bytecode for the EVM.
 - **UTXO** (Unspent Transaction Output) The outputs of a blockchain transaction that are available as inputs for another transaction.
 - **Vyper** A Python-based smart contract language for the EVM.
+
+## Notable EIPs
+
+- [EIP-712](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-712.md) Implements a better way for a user to sign data to pass to a contract. Instead of just signing a message hash, a user can see a human-readable message so they know exactly what they're attaching their signature to.
+
+
+## Notable Token Standards
+
+- [ERC-20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) An early token standard for interchangeable tokens that allows for tokens that are minted, burned, and transferable.
+- [ERC-721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md) This is the standard interface for non-fungible tokens (assets that are not directly interchangeable the way ERC-20 tokens are).
 
 ## Security
 
