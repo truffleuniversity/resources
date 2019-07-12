@@ -10,7 +10,7 @@
     "core-js": "^2.6.5",
     "docz": "1.2.0",
     "docz-theme-default": "1.2.0",
-    "gatsby": "2.4.2",
+    "gatsby": "^2.13.15",
     "gatsby-image": "^2.0.39",
     "gatsby-plugin-offline": "^2.0.25",
     "gatsby-plugin-react-helmet": "^3.0.12",
