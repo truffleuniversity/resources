@@ -1,5 +1,5 @@
 # Truffle University Resources
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 A living collection of resources for participants (anyone who's interested) in Truffle University's courses. Feel free to both add to and update.
 
@@ -17,6 +17,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://elan.trybuch.com"><img src="https://avatars0.githubusercontent.com/u/710847?v=4" width="100px;" alt="Elan Trybuch"/><br /><sub><b>Elan Trybuch</b></sub></a><br /><a href="https://github.com/truffleuniversity/resources/commits?author=Elaniobro" title="Documentation">📖</a> <a href="#content-Elaniobro" title="Content">🖋</a> <a href="#example-Elaniobro" title="Examples">💡</a> <a href="#review-Elaniobro" title="Reviewed Pull Requests">👀</a> <a href="#tool-Elaniobro" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://www.CallMeGwei.com"><img src="https://avatars2.githubusercontent.com/u/34364155?v=4" width="100px;" alt="CallMeGwei"/><br /><sub><b>CallMeGwei</b></sub></a><br /><a href="#content-CallMeGwei" title="Content">🖋</a> <a href="#review-CallMeGwei" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
