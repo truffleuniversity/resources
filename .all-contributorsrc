@@ -43,6 +43,14 @@
         "review",
         "talk",
         "video"
+    },
+    {
+      "login": "sharad",
+      "name": "Sharad Pratap",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/110339?v=4",
+      "profile": "https://github.com/sharad",
+      "contributions": [
+        "doc"
       ]
     }
   ],
