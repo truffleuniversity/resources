@@ -16,7 +16,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="http://elan.trybuch.com"><img src="https://avatars0.githubusercontent.com/u/710847?v=4" width="100px;" alt="Elan Trybuch"/><br /><sub><b>Elan Trybuch</b></sub></a><br /><a href="https://github.com/truffleuniversity/resources/commits?author=Elaniobro" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://elan.trybuch.com"><img src="https://avatars0.githubusercontent.com/u/710847?v=4" width="100px;" alt="Elan Trybuch"/><br /><sub><b>Elan Trybuch</b></sub></a><br /><a href="https://github.com/truffleuniversity/resources/commits?author=Elaniobro" title="Documentation">📖</a> <a href="#content-Elaniobro" title="Content">🖋</a> <a href="#example-Elaniobro" title="Examples">💡</a> <a href="#review-Elaniobro" title="Reviewed Pull Requests">👀</a> <a href="#tool-Elaniobro" title="Tools">🔧</a></td>
   </tr>
 </table>
 
