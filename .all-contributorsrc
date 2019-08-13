@@ -29,6 +29,22 @@
       ]
     },
     {
+      "login": "kevinbluer",
+      "name": "Kevin Bluer",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/210755?v=4",
+      "profile": "https://kevin.bluer.com",
+      "contributions": [
+        "ideas",
+        "content",
+        "design",
+        "eventOrganizing",
+        "infra",
+        "projectManagement",
+        "review",
+        "talk",
+        "video"
+    },
+    {
       "login": "sharad",
       "name": "Sharad Pratap",
       "avatar_url": "https://avatars0.githubusercontent.com/u/110339?v=4",
