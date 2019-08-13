@@ -17,6 +17,16 @@
         "review",
         "tool"
       ]
+    },
+    {
+      "login": "CallMeGwei",
+      "name": "CallMeGwei",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/34364155?v=4",
+      "profile": "https://www.CallMeGwei.com",
+      "contributions": [
+        "content",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
