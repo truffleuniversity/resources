@@ -43,7 +43,7 @@
         "review",
         "talk",
         "video"
-       ]
+      ]
     },
     {
       "login": "sharad",
@@ -51,6 +51,17 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/110339?v=4",
       "profile": "https://github.com/sharad",
       "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "themacexpert",
+      "name": "Kevin Neilson",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5834262?v=4",
+      "profile": "https://github.com/themacexpert",
+      "contributions": [
+        "maintenance",
+        "content",
         "doc"
       ]
     }
