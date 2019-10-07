@@ -1,8 +1,9 @@
 ---
-title: 'Overview of Nightfall'
+name: 'Overview of Nightfall'
 date: '2019-06-13'
 description: 'A detailed look at EY Nightfall, what it is and how it works.'
 author: 'Kyle Liu'
+menu: Articles
 ---
 
 By: [Kyle L](https://medium.com/@kyle_59823)

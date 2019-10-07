@@ -1,8 +1,9 @@
 ---
-title: Deep Dive - Open Zeppelin's ERC777 Implementation 
+name: Deep Dive - Open Zeppelin's ERC777 Implementation 
 date: "2019-07-24"
 description: A detailed look at ERC777 with comparisons to ERC20.
 author: "Kyle Liu"
+menu: Articles
 ---
 
 By: [Kyle L](https://medium.com/@kyle_59823)

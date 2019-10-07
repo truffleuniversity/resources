@@ -1,13 +1,5 @@
-import * as colors from './src/utils/colors'
-
 export default {
-  title: 'Truffle University',
-  base: '/docs',
-  ignore: ['**/blog/**', 'readme.md'],
-  menu: ['About', 'Introductory', 'Resources', 'Services', 'Glossary'],
-  themeConfig: {
-    colors: {
-      primary: colors.primary,
-    },
-  },
+  title: 'Truffle U Resources',
+  menu: ['About', 'Introductory', 'Resources', 'Services', 'Glossary', 'Articles'],
+  ignore: ['README.md', 'changelog.md', 'code_of_conduct.md', 'license.md']
 }

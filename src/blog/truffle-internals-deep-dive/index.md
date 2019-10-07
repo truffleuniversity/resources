@@ -1,8 +1,9 @@
 ---
-title: 'Truffle Internals: Deep Dive'
+name: 'Truffle Internals: Deep Dive'
 date: '2019-07-02'
 description: 'Deep dive into the guts of the Truffle Suite.'
 author: 'Dan Dokic'
+menu: Articles
 ---
 
 By: [Dan Dokic](https://medium.com/@djokicx)

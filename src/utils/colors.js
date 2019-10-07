@@ -1,5 +1,0 @@
-export const blue = '#3742fa'
-export const primary = '#3fe0c5'
-export const truffle = '#332529'
-export const truffle_gradient = 'linear-gradient(to bottom right, #332529, #5E464D)'
-export const code_highlight = '#f2f2f2'
