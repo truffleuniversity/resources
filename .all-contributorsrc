@@ -1,0 +1,74 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Elaniobro",
+      "name": "Elan Trybuch",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/710847?v=4",
+      "profile": "http://elan.trybuch.com",
+      "contributions": [
+        "doc",
+        "content",
+        "example",
+        "review",
+        "tool"
+      ]
+    },
+    {
+      "login": "CallMeGwei",
+      "name": "CallMeGwei",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/34364155?v=4",
+      "profile": "https://www.CallMeGwei.com",
+      "contributions": [
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "kevinbluer",
+      "name": "Kevin Bluer",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/210755?v=4",
+      "profile": "https://kevin.bluer.com",
+      "contributions": [
+        "ideas",
+        "content",
+        "design",
+        "eventOrganizing",
+        "infra",
+        "projectManagement",
+        "review",
+        "talk",
+        "video"
+      ]
+    },
+    {
+      "login": "sharad",
+      "name": "Sharad Pratap",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/110339?v=4",
+      "profile": "https://github.com/sharad",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "themacexpert",
+      "name": "Kevin Neilson",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5834262?v=4",
+      "profile": "https://github.com/themacexpert",
+      "contributions": [
+        "maintenance",
+        "content",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "resources",
+  "projectOwner": "truffleuniversity",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
