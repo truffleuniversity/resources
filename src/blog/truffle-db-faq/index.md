@@ -1,7 +1,8 @@
 ---
-title: Truffle DB FAQs
+name: Truffle DB FAQs
 date: '2019-06-27'
 description: Some answers to questions that came out of Faina's Truffle DB sessions.
+menu: Articles
 ---
 
 Below are some questions that came up as part of Faina's session on the upcoming Truffle DB...

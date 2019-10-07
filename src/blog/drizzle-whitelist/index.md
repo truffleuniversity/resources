@@ -1,8 +1,13 @@
 ---
-title: Drizzle Network Whitelist
+name: Drizzle Network Whitelist
 date: '2019-07-04'
 description: Sean Casey's walking through his Drizzle addition that allows you to specify a whitelist of networks.
+menu: Articles
 ---
+
+# Drizzle Network Whitelist
+
+## Sean Casey's walking through his Drizzle addition that allows you to specify a whitelist of networks.
 
 Sean Casey's addition to [Drizzle](https://www.trufflesuite.com/drizzle) that allows you to specify a whitelist of networks to which you've deployed your contracts (and thus more elegantly handle situations when ).
 
