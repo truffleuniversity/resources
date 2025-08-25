@@ -45,3 +45,14 @@ route: /glossary
 ## Cryptography
 
 - **Keccak256** Cryptographic hash function used widely at a contract-level as well as internally (e.g. hashes for block headers). Slightly different algorithm from SHA-3 standard.
+
+## GSN (Gas Station Network)
+
+- **Meta-transaction** A transaction that is signed by the user but will be sent by a third-party (Relayer).
+- **Relayer** Ethereum account that will broadcast meta-transaction to the Ethereum network - can charge a fee for doing that.
+- **Relay Server** A server that will receive meta-transactions to be sent (Eventually, it's a HTTP service).
+- **Recipient** A smart contract that receives the meta-transactions (Should be prepared for that) - The recipient should pays for the relayers fees.
+- **RelayHub** The smart contract that manages relayers and recipients, both have to be registered on this contract, the recipient should deposit funds that will be used to pay relayers. The calls from relayers are made through this contract.
+- **GSN User** An Ethereum account (without funds) that will sign the meta-transactions and query RelayHub to get the Relay Server that's willing to broadcast its transaction.
+
+See more: https://docs.openzeppelin.com/learn/sending-gasless-transactions
