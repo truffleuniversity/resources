@@ -339,22 +339,13 @@
     "@babel/traverse" "^7.27.1"
     "@babel/types" "^7.27.1"
 
-"@babel/helpers@^7.10.4", "@babel/helpers@^7.12.5", "@babel/helpers@^7.27.4":
-  version "7.27.4"
-  resolved "https://registry.yarnpkg.com/@babel/helpers/-/helpers-7.27.4.tgz#c79050c6a0e41e095bfc96d469c85431e9ed7fe7"
-  integrity sha512-Y+bO6U+I7ZKaM5G5rDUZiYfUvQPUibYmAFe7EnKdnKBbVXDZxvp+MWOH5gYciY0EPk4EScsuFMQBbEfpdRKSCQ==
+"@babel/helpers@^7.10.4", "@babel/helpers@^7.12.5", "@babel/helpers@^7.27.4", "@babel/helpers@^7.4.3":
+  version "7.27.6"
+  resolved "https://registry.yarnpkg.com/@babel/helpers/-/helpers-7.27.6.tgz#6456fed15b2cb669d2d1fabe84b66b34991d812c"
+  integrity sha512-muE8Tt8M22638HU31A3CgfSUciwz1fhATfoVai05aPXGor//CdWDCbnlY1yvBPo07njuVOCNGCSp/GTt12lIug==
   dependencies:
     "@babel/template" "^7.27.2"
-    "@babel/types" "^7.27.3"
-
-"@babel/helpers@^7.4.3":
-  version "7.4.3"
-  resolved "https://registry.yarnpkg.com/@babel/helpers/-/helpers-7.4.3.tgz#7b1d354363494b31cb9a2417ae86af32b7853a3b"
-  integrity sha512-BMh7X0oZqb36CfyhvtbSmcWc3GXocfxv3yNsAEuM0l+fAqSO22rQrUpijr3oE/10jCTrB6/0b9kzmG4VetCj8Q==
-  dependencies:
-    "@babel/template" "^7.4.0"
-    "@babel/traverse" "^7.4.3"
-    "@babel/types" "^7.4.0"
+    "@babel/types" "^7.27.6"
 
 "@babel/highlight@^7.0.0":
   version "7.0.0"
@@ -1212,6 +1203,14 @@
   version "7.27.3"
   resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.27.3.tgz#c0257bedf33aad6aad1f406d35c44758321eb3ec"
   integrity sha512-Y1GkI4ktrtvmawoSq+4FCVHNryea6uR+qUQy0AGxLSsjCX0nVmkYQMBLHDkXZuo5hGx7eYdnIaslsdBFm7zbUw==
+  dependencies:
+    "@babel/helper-string-parser" "^7.27.1"
+    "@babel/helper-validator-identifier" "^7.27.1"
+
+"@babel/types@^7.27.6":
+  version "7.28.1"
+  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.28.1.tgz#2aaf3c10b31ba03a77ac84f52b3912a0edef4cf9"
+  integrity sha512-x0LvFTekgSX+83TI28Y9wYPUfzrnl2aT5+5QLnO6v7mSJYtEEevuDRN0F0uSHRk1G1IWZC43o00Y0xDDrpBGPQ==
   dependencies:
     "@babel/helper-string-parser" "^7.27.1"
     "@babel/helper-validator-identifier" "^7.27.1"
